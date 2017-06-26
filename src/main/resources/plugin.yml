@@ -1,0 +1,12 @@
+name: Poke-Nerd_MobDrops
+main: com.mpolder.mob.Main
+version: 1.0
+
+commands:
+  drop:
+    description: drop help
+    usage: /drop
+
+drop.admin:
+     description: Allows drop commands
+     default: op
